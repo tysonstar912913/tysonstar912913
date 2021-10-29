@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Php -->
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <!-- Node.js -->
   <a href="javascript:void(0);" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!-- Express.js -->
   <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
+  <!-- Php -->
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <!-- Laravel -->
   <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="" width="40" height="40"/> </a>
   <!-- Wordpress -->
@@ -59,6 +59,8 @@ Here are some ideas to get you started:
   <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="" width="40" height="40"/> </a>
 </p>
 <p align="left">
+  <!-- React Native -->
+  <a href="javascript:void(0);"> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="" width="40" height="40"/> </a>
   <!-- ionic -->
   <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="" width="40" height="40"/> </a>
 </p>
