@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web (MERN, MEAN, MEVN, Laravel ...), Blockchain development
 - 📫 How to reach me: **tyson.star.912913@gmail.com**, Skype: live:.cid.1b314ed5a7c5826f
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Html -->
@@ -45,8 +43,6 @@ Here are some ideas to get you started:
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <!-- Mongo DB -->
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  
-  <a href="javascript:void(0);"> <i class="devicon-vuejs-plain"></i> </a>
 </p>
 <p align="left">
   <!-- Git -->
