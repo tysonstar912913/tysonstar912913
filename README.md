@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Blockchain, Ethereum, Smart Contract, Solidity, Solana, Rust ...
 - 💬 Ask me about Web (MERN, MEAN, MEVN, Laravel ...), Blockchain development
 - 📫 How to reach me: **tyson.star.912913@gmail.com**, Skype: live:.cid.1b314ed5a7c5826f
+
+
+<h3 align="center">A passionate full stack web developer from India</h3>
