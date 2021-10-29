@@ -44,7 +44,29 @@ Here are some ideas to get you started:
   <!-- Mongo DB -->
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!-- Node.js -->
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="javascript:void(0);" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <!-- Express.js -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
+  <!-- Laravel -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="" width="40" height="40"/> </a>
+  <!-- Wordpress -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="" width="40" height="40"/> </a>
+  <!-- SASS -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="40" height="40"/> </a>
+  <!-- jQuery -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="" width="40" height="40"/> </a>
+  <!-- materialui -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="" width="40" height="40"/> </a>
+  <!-- svelte -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" alt="" width="40" height="40"/> </a>
+  <!-- vuejs -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="" width="40" height="40"/> </a>
+  <!-- typescript -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/> </a>
+  <!-- ionic -->
+  <a href="javascript:void(0);"> <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="" width="40" height="40"/> </a>
+  <!--  -->
+  <!-- <a href="javascript:void(0);"> <img src="" alt="" width="40" height="40"/> </a> -->
 </p>
 <p align="left">
   <!-- Git -->
