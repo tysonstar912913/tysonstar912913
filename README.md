@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Blockchain, Ethereum, AVAX, Polygon, BSC, Smart Contract, Solidity, web3.js, Solana, Rust ...
 - 💬 Ask me about Web (MERN, MEAN, MEVN, Laravel ...), Blockchain development
-- 📫 How to reach me: **tyson.star.912913@gmail.com**,**yonexhuffman912913@gmail.com**, Skype: live:.cid.1b314ed5a7c5826f, Discord: Adam0912#3746, LinkedIn: www.linkedin.com/in/adam-lee-2054a2229
+- 📫 How to reach me: **tyson.star.912913@gmail.com**,**yonexhuffman912913@gmail.com**, Skype: live:.cid.1b314ed5a7c5826f, Discord: Adam0912#3746
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
